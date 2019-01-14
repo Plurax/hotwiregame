@@ -15,6 +15,8 @@ As the trigger inputs are low active, you can add this board to an existing circ
 
 # Sound
 
+For use of the pitches copy them from https://www.arduino.cc/en/Tutorial/toneMelody.
+
 The sketch uses an active buzzer on A3.
 The code currently plays a short beep if the player touches the wire.
 If the player touches B and returns to A a short melody is played.
